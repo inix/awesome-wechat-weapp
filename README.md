@@ -238,5 +238,5 @@
 
 
 ## 笔记
-－ app合集 http://www.getweapp.com
-－ 合法域名校验出错，不在以下合法域名列表中 解决方法 http://blog.csdn.net/hicoldcat/article/details/54288245
+- app合集 http://www.getweapp.com
+- 合法域名校验出错，不在以下合法域名列表中 解决方法 http://blog.csdn.net/hicoldcat/article/details/54288245
