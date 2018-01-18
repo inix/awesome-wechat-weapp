@@ -218,8 +218,6 @@
 - [微信小程序 - 微信天气(bodekjan/wechat-weather)](https://github.com/bodekjan/wechat-weather)
 - [微信小程序 - 我要圣诞帽 (jasscia/ChristmasHat)](https://github.com/jasscia/ChristmasHat)
 
-[2]来自
-http://www.getweapp.com
 
 ## 轮子
 
@@ -237,3 +235,8 @@ http://www.getweapp.com
 - [we-cropper 微信小程序图片裁剪工具](https://github.com/dlhandsome/we-cropper)
 - [wx-promise-request 微信小程序请求队列管理库](https://github.com/JoeZheng2015/wx-promise-request)
 - [wxDraw 全面的小程序 Canvas 动画库 支持创建各种图形，动画以及主要手势交互事件](https://github.com/bobiscool/wxDraw)
+
+
+## 笔记
+app合集 http://www.getweapp.com
+合法域名校验出错，不在以下合法域名列表中 解决方法 http://blog.csdn.net/hicoldcat/article/details/54288245
